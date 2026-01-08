@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AnimationExperiment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\PlayerClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\PlayerClass.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\Animation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\Animation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\Gamecontext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\Gamecontext.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|C:\\AnimationExperiment\\AnimationExperiment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A22971ED-B619-4B67-853E-3204DF513C3F}|AnimationExperiment\\AnimationExperiment.vcxproj|solutionrelative:AnimationExperiment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\Game.hpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\Game.hpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\Game.hpp",
+              "RelativeToolTip": "AnimationExperiment\\Game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-06T13:42:16.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\Game.cpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\Game.cpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\Game.cpp",
+              "RelativeToolTip": "AnimationExperiment\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T13:40:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerClass.cpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.cpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\PlayerClass.cpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.cpp",
+              "RelativeToolTip": "AnimationExperiment\\PlayerClass.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T13:28:57.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerClass.hpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.hpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\PlayerClass.hpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\PlayerClass.hpp",
+              "RelativeToolTip": "AnimationExperiment\\PlayerClass.hpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-02T02:32:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gamecontext.hpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\Gamecontext.hpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\Gamecontext.hpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\Gamecontext.hpp",
+              "RelativeToolTip": "AnimationExperiment\\Gamecontext.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-05T10:37:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\Animation.cpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\Animation.cpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\Animation.cpp",
+              "RelativeToolTip": "AnimationExperiment\\Animation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T16:31:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animation.hpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\Animation.hpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\Animation.hpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\Animation.hpp",
+              "RelativeToolTip": "AnimationExperiment\\Animation.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-02T16:20:38.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\AnimationExperiment\\AnimationExperiment\\main.cpp",
+              "RelativeDocumentMoniker": "AnimationExperiment\\main.cpp",
+              "ToolTip": "C:\\AnimationExperiment\\AnimationExperiment\\main.cpp",
+              "RelativeToolTip": "AnimationExperiment\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T02:28:43.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
